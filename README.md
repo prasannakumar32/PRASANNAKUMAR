@@ -7,7 +7,7 @@ I recently completed an **8-month internship**, where I gained hands-on experien
 
 ### 🧑‍💻 About Me
 
-- 💼 Full Stack Developer Intern (8 months)
+- 💼 Full Stack Developer (8 months)
 - 🚀 Passionate about building scalable, full-featured web apps
 - 🌐 Comfortable with both frontend and backend workflows
 - ☁️ Experience with AWS services like Lambda, DynamoDB, S3, API Gateway
